@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Copyright (c) 2026, androidnisse; SPDX-License-Identifier: BSD-2-Clause
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PACKAGE_YML="${SCRIPT_DIR}/package.yml"

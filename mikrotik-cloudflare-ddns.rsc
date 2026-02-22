@@ -1,3 +1,4 @@
+# Copyright (c) 2026, androidnisse; SPDX-License-Identifier: BSD-2-Clause
 :local apiToken "<CLOUDFLARE_API_TOKEN>"
 :local zoneID "<ZONE_ID>"
 :local recordID "<DNS_RECORD_ID>"
